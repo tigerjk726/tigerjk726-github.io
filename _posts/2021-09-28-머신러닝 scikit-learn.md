@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Welcome to Tigerjk!"
+---
+
+
 #  머신러닝 scikit-learn
 
 첫 번째 모델을 학습도 시켜보고, 성능도 평가해봤으니 이제는 다른 모델들도 활용해 보겠습니다!
